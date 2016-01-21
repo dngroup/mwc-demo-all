@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding="UTF-8"?>
+ <PACKAGE>
+ <ACTION>download</ACTION>
+ <EXP_DATE>06/08/2016 04:59</EXP_DATE>
+
+ <PROVIDER>
+ <AUTHOR>eMusic.com</AUTHOR>
+ <NAME>eMusic.com</NAME>
+ <URL>http://www.emusic.com</URL>
+ <COPYRIGHT>Portions Copyright (C) 2004-2008 eMusic.com Inc; see http://www.emusic.com for more details</COPYRIGHT>
+ <CONTACT>support@emusic.com</CONTACT>
+ </PROVIDER>
+
+ <TRACKLIST>
+ <TRACK>
+ <TRACKID>49302092</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RZ73MVAESEOXTRakHWhB1y-ZPLU9HjEKc1KM1IBNKqb0_t0PpPJd8LuU1MtihLyqll3Fpc43AT0MNN7GFrNYQBOltoA0URZtkMLT30_irdhL0mIb2lx5gqQR-5EzZoRLJZi01i6hZcC4jg7_9lVTMhY/14938766/49302092/Lunacy.mp3</TRACKURL>
+ <TRACKNUM>1</TRACKNUM>
+ <TRACKCOUNT>7</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>Lunacy</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>369</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>10785889</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302094</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RZ73MVAESEOXP9GTXL285hqW0pIq_YE_7gTDMQWu5KZLrZ6ZLA68gbnkZDVorfYTDaC3V2LXRrv9ZbE-AY9ADzWzlZhRUwAhPLPavp0Rs4iN0Hm6Ew-kmj1OBLC-yIgMaeV-mWw_tEOJ-BY_54nVJC9/14938766/49302094/Mother_of_the_World.mp3</TRACKURL>
+ <TRACKNUM>2</TRACKNUM>
+ <TRACKCOUNT>7</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>Mother of the World</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>597</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>19059546</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302111</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouSgFJz2nrPpQY4CN9p3rNvtLi3ijrseJVU1vpnwbkNoGoQXFYWk1VX-Qygg6QIbh3oPF5j4KwIpUL54H-kJCK_o2uM-jxwfEOa6qMmtfLdy-FZgA7dXCtuqocZrXPajK6pYS9U044KZhz/14938766/49302111/The_Wolf.mp3</TRACKURL>
+ <TRACKNUM>3</TRACKNUM>
+ <TRACKCOUNT>7</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>The Wolf</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>95</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>2894530</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302113</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouSQYJ44KrOi_JCfz_KujNgxXSPGpcLxqbIyUGCp72tYNH98SCwgwEjKrq0Ral-3iwDFIUnOP-ZjYvhNnH4-N6BeTnhMnGtszE5-D7TwTLKKriTymKUhqIBnTwJFfwij36OV6CQUZ4a6in/14938766/49302113/The_Seer.mp3</TRACKURL>
+ <TRACKNUM>4</TRACKNUM>
+ <TRACKCOUNT>7</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>The Seer</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>1934</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>63022298</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302114</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouSMbwSl4JI67MrmXb0wuBCCWAlS7LmQ5b6U4Re9PvumBYiTVZqlqrzzYh8fTyV_rwQLs235UdwGBSD3LlIb6TsbSYc-KThZLbrz_DWb30QBQM_FT_iNGxooyRTKJcdHoHCnoIpdMSQImj/14938766/49302114/The_Seer_Returns.mp3</TRACKURL>
+ <TRACKNUM>5</TRACKNUM>
+ <TRACKCOUNT>7</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>The Seer Returns</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>378</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>11945791</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302116</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouS8dfmayIeP4sSaw8rFoW4nTcNgd-j9MvwgpYLw-DXj_NxBO0hYMHSgoHMg19CxrXfWaUT8Xs80NwQwAIUoLZXzjG13j7mHcBNL3SdPQMNI_jiuolPCAyT1ZiDslPqGqdD0uprFMb8NIk/14938766/49302116/93_Ave_Blues.mp3</TRACKURL>
+ <TRACKNUM>6</TRACKNUM>
+ <TRACKCOUNT>7</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>93 Ave. Blues</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>322</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>9798233</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302118</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouSUgbCDjENdZOEzUzBczBzEEIxblhWHC0QxfIC3s0boGA6yN7ZZhYnk39g22hOG_iI54FZmK4SMgkGnP6p0Cd6EvHgpzAEMjEkQPBf_bSk-D-Wz4dRoQTg_ozdM70j1qFF5pwhHTFIcxS/14938766/49302118/The_Daughter_Brings_the_Water.mp3</TRACKURL>
+ <TRACKNUM>7</TRACKNUM>
+ <TRACKCOUNT>7</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>The Daughter Brings the Water</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>161</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>4765736</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302140</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouS4VdLDrnXdeNDln6k1X52laQ_7lgJzlfCGdql-bk8sLB3q5WZoc9pWRyqM507rnnvVEVb6DnlyuzlNOPNkrdUbd2-HMf0gPpwVtkre711Dg1ftkotB13uzJOiJhov9Rk8A3HdFXYrRRS/14938766/49302140/Song_for_a_Warrior.mp3</TRACKURL>
+ <TRACKNUM>1</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>2</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>Song for a Warrior</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>238</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>6290288</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302142</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouSIwNImtg_hDqovOQ0WcPmc5k_AYkb-h9QEzDumlwalCRY7wLVVKU7_pAKseXkD876FEhJ-ep-f7W5rSIENTH3S7NU-jZoEcg9so3kDJmil8yl2rZ89KN9U1PzcBYbHGHTfSPtUK5lTuI/14938766/49302142/Avatar.mp3</TRACKURL>
+ <TRACKNUM>2</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>2</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>Avatar</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>532</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>18525180</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302145</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouS4i8zR8uF-B6VAXrIWZ3MZq4mWfvwUmSA_QErO6_zI4lAOAwKbj_KnQsOPouy741vw98uivxtOCXzm0kGzZgN45ggTBvWbnH_uRyCdSOEzn_IrJ4c5Z6oNCs4kvDK-mQiwX_0O4zLA1v/14938766/49302145/A_Piece_of_the_Sky.mp3</TRACKURL>
+ <TRACKNUM>3</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>2</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>A Piece of the Sky</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>1150</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>35852233</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>49302146</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/zUJpNMi67RJ6oM0p9XouSYC7eW5O4Q1A65QTgVkbjzoi8YTEUbc56Z5nUkLWKXjJ8ckH3ICxuCeNDXYpZIm1orNYHRT1WL0GJxTdIg5DWVcLFu3vGiHIaAdglh5pmQ_-21caDAnL-NbJUjf0EIafnGlddIeGwAbt/14938766/49302146/Apostate.mp3</TRACKURL>
+ <TRACKNUM>4</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>2</DISCNUM>
+ <DISCCOUNT>2</DISCCOUNT>
+ <TITLE>Apostate</TITLE>
+ <ALBUM>The Seer</ALBUM>
+ <ALBUMID>14938766</ALBUMID>
+ <ALBUMURL>http://download-service/album/Swans-The-Seer-MP3-Download/14938766.html</ALBUMURL>
+ <ARTIST>Swans</ARTIST>
+ <ARTISTID>10556880</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Swans-MP3-Download/10556880.html</ARTISTURL>
+ <GENRE>Alternative/Punk</GENRE>
+ <GENREID>284</GENREID>
+ <GENREURL>http://download-service/genre/284.html</GENREURL>
+ <LABEL>Mute / PIAS Digital</LABEL>
+ <LABELID>1076289</LABELID>
+ <LABELURL>http://download-service/label/Mute-PIAS-Digital-MP3-Download/1076289.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>1381</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/149/387/14938766/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/149/387/14938766/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>45707568</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ </TRACKLIST>
+ </PACKAGE>

@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding="UTF-8"?>
+ <PACKAGE>
+ <ACTION>download</ACTION>
+ <EXP_DATE>07/03/2016 04:15</EXP_DATE>
+
+ <PROVIDER>
+ <AUTHOR>eMusic.com</AUTHOR>
+ <NAME>eMusic.com</NAME>
+ <URL>http://www.emusic.com</URL>
+ <COPYRIGHT>Portions Copyright (C) 2004-2008 eMusic.com Inc; see http://www.emusic.com for more details</COPYRIGHT>
+ <CONTACT>support@emusic.com</CONTACT>
+ </PROVIDER>
+
+ <TRACKLIST>
+ <TRACK>
+ <TRACKID>62414182</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3pZrO-61rDaK95bmuKN3YY_hE-uXQkcTD1V-Ljiwi8QAaGeA0nhhFLyYcYW618YkHyraDv3f7IwbUHWHHrNQFbhPd7S0e1J-_zApiHEB7SwlvqzTk3od_dGHQ8yWnLE9fJO4yc9zMNC8/16309659/62414182/Intro.mp3</TRACKURL>
+ <TRACKNUM>1</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Intro</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>28</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>1112815</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414180</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3djwovv5q0MukA3IRcE1CIp1dEoMuEBNFTtP8EaHXeWPdrQbv4L_1_0sW8c9n9NM3b8TR3Cl82mrCOdVG2PhDWJ_OOT6vFry3Q_5ZNOs9aRF3YEEMm__KcN0QZ41vYfYS_uxRJapQJmG/16309659/62414180/Ezra.mp3</TRACKURL>
+ <TRACKNUM>2</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Ezra</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>267</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>10666317</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414179</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3RKZLqKGnKZT6hO-99-WPlZIVN4l66BiTiONZDZcUJdX_KYOZrhJq4wpgZOdRcVoIBiwOZtAQmSgA1_gI8cxVIQVTH_fHH4DAHAUxLsFsOe2EFkdQ9mmm6sKI_IZ8IApEobHpT04lY8z/16309659/62414179/ECCOJAMC1.mp3</TRACKURL>
+ <TRACKNUM>3</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>ECCOJAMC1</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>32</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>1295672</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414186</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3NWEBVUqLCdOnPi8ySl2uY1q7iCNOCKfp6LHV9TgNdlVHaP0Qjojotg03hMk6lcK_s41UVurjMUpJh2Te0pLQg8tLZwjpxCAB0LD1JgTaKbSGeIuZIMQ_IBeFXHlfnTPYzNBOHuN1p9k/16309659/62414186/Sticky_Drama.mp3</TRACKURL>
+ <TRACKNUM>4</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Sticky Drama</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>258</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>10307917</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414185</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3BD3DfgSHalEb436SEMbQMtIxN3R8eZcESnPWOTDbqsBJthEc_dc5LOF8TwuJzmoVhzD8eGcr78dxCviGfK0bpcPhcWL1kzUmA-X4CyKbWJdUM5oI1u3fweHo4ozQKThStOe25W6QvQT/16309659/62414185/SDFK.mp3</TRACKURL>
+ <TRACKNUM>5</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>SDFK</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>87</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>3493093</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414184</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3BXImQgHmhEUX5yQbDBRfjS3ePE4xGcZq8mogmPdmMIjeg7e3E4ptG70kFseROwPzWygT_vCC7ipl89v8MiHX1el33o_8IJv9cf_qFlTaPyza7ueqmeb5pEPMPbgy58HeGmrubB-g-Bg/16309659/62414184/Mutant_Standard.mp3</TRACKURL>
+ <TRACKNUM>6</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Mutant Standard</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>487</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>19470627</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414183</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3lfYnmxKJ5A5iAeVOFdEWnVEmiqhwpFyr7UWWvsgw0JqgHmn_xza5wvjyS-bvMMzgHFbr-6s8GIUs2vrGCV7tsqUVJl_ds43vgO86H0V6dkTEQ4rTj_5pxmj1loVrkqCH132jpGi04Ns/16309659/62414183/Child_of_Rage.mp3</TRACKURL>
+ <TRACKNUM>7</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Child of Rage</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>292</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>11687182</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414188</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3lU8ou7AP7r2BsLW3sB9fY-qxUZwvjxMYJTGQYPNc7VRGvB5HrVnd8iEEU5jOv3SP46eb8wrSO3Pblv3b-ZnlGhNSZoQSiENTC_vwLkV9pBmlK1tnEREKpoQa89urw3Q_gqDhiuRjUrW/16309659/62414188/Animals.mp3</TRACKURL>
+ <TRACKNUM>8</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Animals</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>235</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>9399901</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414187</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3dD4BqIeRXA_owDs30wRW-BSN0jw2Zc85bxNRmOk-2Dmd3utQWAaTnaik6IjIAGoQfhJa5aEVa9hu08xuFv2MTslZI9RXP_fAWOHkos_ojjWmwob2kaVCoaFfaDUJ6xJFchUwwrjTm4W/16309659/62414187/I_Bite_Through_It.mp3</TRACKURL>
+ <TRACKNUM>9</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>I Bite Through It</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>197</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>7891068</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414181</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu39aU1RzKwHI5JFmDzNBp_gfM-WhyI2BsrRdRgrRtS1zC1ELsKAKLOvSf4VlctuU7WV75JiO_n3XPwOh0dCUhPP5o_nk_ZmBKKY_e6y8kFs2GriMFgO8JSfGNvCMqOJkR41X9AGdRdlV8/16309659/62414181/Freaky_Eyes.mp3</TRACKURL>
+ <TRACKNUM>10</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Freaky Eyes</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>391</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>15647346</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414189</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu3FcuPJ8tOOENAKtfDw7e2Q2289eE4UhkWKPZSixTLgQi9RSMRC7d9czSuuRFnSV9COKV4PMXdegiqvZEc6ZXG21Gc5CCXwiwijj3_9TSzA4VHDLljuj5LqSuVWcP__ao4HR8BqLuZfid/16309659/62414189/Lift.mp3</TRACKURL>
+ <TRACKNUM>11</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Lift</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>250</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>9986088</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>62414190</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/tcO4pkeiR8E9no1ja5uu39gbj0lKGWQzItqLFAZXSxAue_Gy2yFQZYHeyFiKCFJAPKkyn0o5Y9SvWp8pj1P65tJqtn2xW48snLwgbf3uL3OWYDhW2F3FOh2Mqay2jzAnSgTiG9cQf6ceColt7L5HtmveA5U9nVoS/16309659/62414190/No_Good.mp3</TRACKURL>
+ <TRACKNUM>12</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>No Good</TITLE>
+ <ALBUM>Garden of Delete</ALBUM>
+ <ALBUMID>16309659</ALBUMID>
+ <ALBUMURL>http://download-service/album/Oneohtrix-Point-Never-Garden-of-Delete-MP3-Download/16309659.html</ALBUMURL>
+ <ARTIST>Oneohtrix Point Never</ARTIST>
+ <ARTISTID>12487632</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Oneohtrix-Point-Never-MP3-Download/12487632.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Warp Records</LABEL>
+ <LABELID>242525</LABELID>
+ <LABELURL>http://download-service/label/Warp-Records-MP3-Download/242525.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>199</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/163/096/16309659/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/163/096/16309659/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>7957942</DATAPORTIONSIZE>
+ <STYLES>300:Alternative</STYLES>
+ </TRACK>
+
+ </TRACKLIST>
+ </PACKAGE>

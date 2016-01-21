@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding="UTF-8"?>
+ <PACKAGE>
+ <ACTION>download</ACTION>
+ <EXP_DATE>06/08/2016 09:57</EXP_DATE>
+
+ <PROVIDER>
+ <AUTHOR>eMusic.com</AUTHOR>
+ <NAME>eMusic.com</NAME>
+ <URL>http://www.emusic.com</URL>
+ <COPYRIGHT>Portions Copyright (C) 2004-2008 eMusic.com Inc; see http://www.emusic.com for more details</COPYRIGHT>
+ <CONTACT>support@emusic.com</CONTACT>
+ </PROVIDER>
+
+ <TRACKLIST>
+ <TRACK>
+ <TRACKID>37744494</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/kefyMyJHHzEXyekDZG_xqieRFVqTwNc--4w4KsCObNzM1DSjftA43nSDz_fmXZqjUt1Lo9Nf7cU44b4iK-d8Q9LPxDPFsC4k6kd2dAr-cC5cGY-hVlhtAzR_7xQT8FX40GUDo0YoIYIJftKEJSF3Uhh-61O8htqO/13740344/37744494/Moya.mp3</TRACKURL>
+ <TRACKNUM>1</TRACKNUM>
+ <TRACKCOUNT>2</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Moya</TITLE>
+ <ALBUM>Slow Riot for New Zero Kanada</ALBUM>
+ <ALBUMID>13740344</ALBUMID>
+ <ALBUMURL>http://download-service/album/godspeed-you-black-emperor-Slow-Riot-for-New-Zero-Kanada-MP3-Download/13740344.html</ALBUMURL>
+ <ARTIST>godspeed you! black emperor</ARTIST>
+ <ARTISTID>11648538</ARTISTID>
+ <ARTISTURL>http://download-service/artist/godspeed-you-black-emperor-MP3-Download/11648538.html</ARTISTURL>
+ <GENRE>Rock/Pop</GENRE>
+ <GENREID>277</GENREID>
+ <GENREURL>http://download-service/genre/277.html</GENREURL>
+ <LABEL>kranky / The Orchard</LABEL>
+ <LABELID>979826</LABELID>
+ <LABELURL>http://download-service/label/kranky-The-Orchard-MP3-Download/979826.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>651</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/137/403/13740344/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/137/403/13740344/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>20737638</DATAPORTIONSIZE>
+ <STYLES>374:Commercial Alternative</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>37744495</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/kefyMyJHHzEXyekDZG_xqGG2jZ_UccGf44MRVTeX-dcTxhx1aUVdtvUyvtgzfc4srdwCdCrPJIHIY7qKHex650nCcQZVOow43BZM5zZY0sK8_p4Oyv4b4cAEaVUTRCipan7dJXc58HZEtd0DxHgLedvgg2tjdcPB/13740344/37744495/Blaise_Bailey_Finnegan_III.mp3</TRACKURL>
+ <TRACKNUM>2</TRACKNUM>
+ <TRACKCOUNT>2</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Blaise Bailey Finnegan III</TITLE>
+ <ALBUM>Slow Riot for New Zero Kanada</ALBUM>
+ <ALBUMID>13740344</ALBUMID>
+ <ALBUMURL>http://download-service/album/godspeed-you-black-emperor-Slow-Riot-for-New-Zero-Kanada-MP3-Download/13740344.html</ALBUMURL>
+ <ARTIST>godspeed you! black emperor</ARTIST>
+ <ARTISTID>11648538</ARTISTID>
+ <ARTISTURL>http://download-service/artist/godspeed-you-black-emperor-MP3-Download/11648538.html</ARTISTURL>
+ <GENRE>Rock/Pop</GENRE>
+ <GENREID>277</GENREID>
+ <GENREURL>http://download-service/genre/277.html</GENREURL>
+ <LABEL>kranky / The Orchard</LABEL>
+ <LABELID>979826</LABELID>
+ <LABELURL>http://download-service/label/kranky-The-Orchard-MP3-Download/979826.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>1065</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/137/403/13740344/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/137/403/13740344/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>32597450</DATAPORTIONSIZE>
+ <STYLES>374:Commercial Alternative</STYLES>
+ </TRACK>
+
+ </TRACKLIST>
+ </PACKAGE>

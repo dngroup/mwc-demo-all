@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding="UTF-8"?>
+ <PACKAGE>
+ <ACTION>download</ACTION>
+ <EXP_DATE>06/08/2016 05:11</EXP_DATE>
+
+ <PROVIDER>
+ <AUTHOR>eMusic.com</AUTHOR>
+ <NAME>eMusic.com</NAME>
+ <URL>http://www.emusic.com</URL>
+ <COPYRIGHT>Portions Copyright (C) 2004-2008 eMusic.com Inc; see http://www.emusic.com for more details</COPYRIGHT>
+ <CONTACT>support@emusic.com</CONTACT>
+ </PROVIDER>
+
+ <TRACKLIST>
+ <TRACK>
+ <TRACKID>36760288</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/ZuVaMazjpZiYf6vmnniHvpPabj7bFRmQajpboo0q2M-ZattzpVSoPFUjd6TtqWfls3rqmywEAd3R9jm_ul4xeIXBhZtyaR93-9onpRwTKzuerw-qDFh8vz2wMMAv74iDojhr_HWt3LUPbDTpRgWNgBnFIf_8TrKs/13650576/36760288/Mladic.mp3</TRACKURL>
+ <TRACKNUM>1</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Mladic</TITLE>
+ <ALBUM>Allelujah! Don’t Bend! Ascend!</ALBUM>
+ <ALBUMID>13650576</ALBUMID>
+ <ALBUMURL>http://download-service/album/godspeed-you-black-emperor-Allelujah-Don%E2%80%99t-Bend-Ascend-MP3-Download/13650576.html</ALBUMURL>
+ <ARTIST>godspeed you! black emperor</ARTIST>
+ <ARTISTID>11648538</ARTISTID>
+ <ARTISTURL>http://download-service/artist/godspeed-you-black-emperor-MP3-Download/11648538.html</ARTISTURL>
+ <GENRE>Rock/Pop</GENRE>
+ <GENREID>277</GENREID>
+ <GENREURL>http://download-service/genre/277.html</GENREURL>
+ <LABEL>Constellation / SC Distribution</LABEL>
+ <LABELID>786043</LABELID>
+ <LABELURL>http://download-service/label/Constellation-SC-Distribution-MP3-Download/786043.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>1200</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/136/505/13650576/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/136/505/13650576/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>40941921</DATAPORTIONSIZE>
+ <STYLES>293:Rock</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>36760289</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/ZuVaMazjpZiYf6vmnniHv9lnWmdJQDRhAhSuOuDwD8wswPYSuE8SMYZGLtzqjlZjndBagjwB8v82ROpuT9bB276uCCmMkXK6nxg96ZC_hIWC9360PtCBa1rfsetzwcqwYbBY9UG0IJxt9F8-vb5xt5eyEtwMe2Ep/13650576/36760289/Their_Helicopters_Sing.mp3</TRACKURL>
+ <TRACKNUM>2</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Their Helicopters Sing</TITLE>
+ <ALBUM>Allelujah! Don’t Bend! Ascend!</ALBUM>
+ <ALBUMID>13650576</ALBUMID>
+ <ALBUMURL>http://download-service/album/godspeed-you-black-emperor-Allelujah-Don%E2%80%99t-Bend-Ascend-MP3-Download/13650576.html</ALBUMURL>
+ <ARTIST>godspeed you! black emperor</ARTIST>
+ <ARTISTID>11648538</ARTISTID>
+ <ARTISTURL>http://download-service/artist/godspeed-you-black-emperor-MP3-Download/11648538.html</ARTISTURL>
+ <GENRE>Rock/Pop</GENRE>
+ <GENREID>277</GENREID>
+ <GENREURL>http://download-service/genre/277.html</GENREURL>
+ <LABEL>Constellation / SC Distribution</LABEL>
+ <LABELID>786043</LABELID>
+ <LABELURL>http://download-service/label/Constellation-SC-Distribution-MP3-Download/786043.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>390</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/136/505/13650576/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/136/505/13650576/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>13345564</DATAPORTIONSIZE>
+ <STYLES>293:Rock</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>36760290</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/ZuVaMazjpZiYf6vmnniHvtlxPxhKaUAjYanOtOpjGni661sCis_E581U-i-Q6YXdtncYNfvQeVSlWcgHcsoGvYCC2irIVmb5j00F9VilxK4MA8MaIrFdFV8UDd_nAD9mHtbKpynUVpgrsfOZkZwpZpCB1gWhnAZg/13650576/36760290/We_Drift_Like_Worried_Fire.mp3</TRACKURL>
+ <TRACKNUM>3</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>We Drift Like Worried Fire</TITLE>
+ <ALBUM>Allelujah! Don’t Bend! Ascend!</ALBUM>
+ <ALBUMID>13650576</ALBUMID>
+ <ALBUMURL>http://download-service/album/godspeed-you-black-emperor-Allelujah-Don%E2%80%99t-Bend-Ascend-MP3-Download/13650576.html</ALBUMURL>
+ <ARTIST>godspeed you! black emperor</ARTIST>
+ <ARTISTID>11648538</ARTISTID>
+ <ARTISTURL>http://download-service/artist/godspeed-you-black-emperor-MP3-Download/11648538.html</ARTISTURL>
+ <GENRE>Rock/Pop</GENRE>
+ <GENREID>277</GENREID>
+ <GENREURL>http://download-service/genre/277.html</GENREURL>
+ <LABEL>Constellation / SC Distribution</LABEL>
+ <LABELID>786043</LABELID>
+ <LABELURL>http://download-service/label/Constellation-SC-Distribution-MP3-Download/786043.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>1207</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/136/505/13650576/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/136/505/13650576/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>37328172</DATAPORTIONSIZE>
+ <STYLES>293:Rock</STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>36760291</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/ZuVaMazjpZiYf6vmnniHvxuU4x7_jf2J-2wyTRsGKwESMBKAACN3_pLeirMfhQKuhZ58NhsDWS3nSbaOkpvm_VU_atoSmv6hPsgs1q4VPQ6YacOF8zd1j3XvDfPiUCCVNnO-smJ6vVkvOgGNyn-e8fCH3Kitb4nc/13650576/36760291/Strung_Like_Lights_At_Thee_Printemps_Erable.mp3</TRACKURL>
+ <TRACKNUM>4</TRACKNUM>
+ <TRACKCOUNT>4</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Strung Like Lights At Thee Printemps Erable</TITLE>
+ <ALBUM>Allelujah! Don’t Bend! Ascend!</ALBUM>
+ <ALBUMID>13650576</ALBUMID>
+ <ALBUMURL>http://download-service/album/godspeed-you-black-emperor-Allelujah-Don%E2%80%99t-Bend-Ascend-MP3-Download/13650576.html</ALBUMURL>
+ <ARTIST>godspeed you! black emperor</ARTIST>
+ <ARTISTID>11648538</ARTISTID>
+ <ARTISTURL>http://download-service/artist/godspeed-you-black-emperor-MP3-Download/11648538.html</ARTISTURL>
+ <GENRE>Rock/Pop</GENRE>
+ <GENREID>277</GENREID>
+ <GENREURL>http://download-service/genre/277.html</GENREURL>
+ <LABEL>Constellation / SC Distribution</LABEL>
+ <LABELID>786043</LABELID>
+ <LABELURL>http://download-service/label/Constellation-SC-Distribution-MP3-Download/786043.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>392</DURATION>
+ <ALBUMART>http://cf-images.emusic.com/music/images/album/136/505/13650576/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://cf-images.emusic.com/music/images/album/136/505/13650576/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>12202895</DATAPORTIONSIZE>
+ <STYLES>293:Rock</STYLES>
+ </TRACK>
+
+ </TRACKLIST>
+ </PACKAGE>

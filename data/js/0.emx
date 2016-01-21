@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding="UTF-8"?>
+ <PACKAGE>
+ <ACTION>download</ACTION>
+ <EXP_DATE>05/22/2016 06:47</EXP_DATE>
+
+ <PROVIDER>
+ <AUTHOR>eMusic.com</AUTHOR>
+ <NAME>eMusic.com</NAME>
+ <URL>http://www.emusic.com</URL>
+ <COPYRIGHT>Portions Copyright (C) 2004-2008 eMusic.com Inc; see http://www.emusic.com for more details</COPYRIGHT>
+ <CONTACT>support@emusic.com</CONTACT>
+ </PROVIDER>
+
+ <TRACKLIST>
+ <TRACK>
+ <TRACKID>61138985</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lYK24SBHRo5cTt6_dc7buI4GI0zGLRH5p_UD91jwF-bIVsj2xeTB0BPMsVMVUcButx4_9D1WTAHEf-yqI_X4kiwxILOhQKYD21h7X9QFD5D6VenXbz-PGE9cpUvVFVupBJsHZ4Xe-jURzUJ2736d0Mig/16184661/61138985/Jungle_Boogie.mp3</TRACKURL>
+ <TRACKNUM>1</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Jungle Boogie</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>227</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>9073893</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61138987</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lYK24SBHRo5cT1zJhl7fexKTjesN3_IZlTGOlw_eGwsiGuO3FdXlaG6_YnIfuFa_z5ozsUYuEQ8fP_PJ9vJ-kminnKwQPCnVElYsnM-wY4aUA6CrCrN_47Rzkm2KzyZZOfqAU_N_2Mrgpw6MhXpLIreC/16184661/61138987/Better_That_Way_feat_Taiwan_MC_.mp3</TRACKURL>
+ <TRACKNUM>2</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Better That Way (feat. Taiwan MC)</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>245</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>9818905</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61138988</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lYK24SBHRo5cTpbPSrp5RWuKTAcPyfM9yXJhEAFSmPAWJWKHbNgJazVuaVx7CPeGUfhDZrHb4DwckGkfLlDzHUpRP8-b4oLSXuQsPBimCQswKizoQBN8bZg6KG4u13pz-1_4Ax25IHb10wOCxsdHeWfL/16184661/61138988/Ronin.mp3</TRACKURL>
+ <TRACKNUM>3</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Ronin</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>211</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>8438595</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61138990</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lYK24SBHRo5cT9i-L2WGbp5P4KjpTq5tT3kmj_MVeld4-VgtgHvzFyUu-WR99L4xmemZuGgC4bPbO0f1B1jCl0Ko3rPgVRhGkLKVCGir4VsExQruPNLc9vSI-cCC68hpkFnT2mKykc80eLMvSi3X8jJK/16184661/61138990/Pills_for_Your_Ills_feat_Khuli_Chana_.mp3</TRACKURL>
+ <TRACKNUM>4</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Pills for Your Ills (feat. Khuli Chana)</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>224</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>8965223</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139035</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tz3rC__rIlEf1JDXRRYH-cOWx-uoO4xH9AjFg_epci1UKpGM7Tmnie3KMoJW52iCTrxyWaxwgkQNLNXbCBh_6fT15HWACmuYx50Kbki-XOd5UGUkk-4qsv6KaII0Xo4t8PQYb2eUxJ1zt/16184661/61139035/Past_Your_Time_feat_Youngsta_CPT_.mp3</TRACKURL>
+ <TRACKNUM>5</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Past Your Time (feat. Youngsta CPT)</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>279</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>11172048</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139036</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tzvyvdSdq16BshAbk12cmoQsYTZ0VbOvK-tZBxu-ehXon_Cop6FFsGCIFTlnASIbnF583bF_E1lByC5EbSaxMpJnNu-lrDei6V4WuBviaqbgFJX8urmefXqk7kO9g7ILpxvH-LqVaAMpx/16184661/61139036/The_Journey.mp3</TRACKURL>
+ <TRACKNUM>6</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>The Journey</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>210</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>8383215</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139037</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tzvQQVOn-oW0fTCn32jouT8sym0Dn-PZxiE3curWve_go02RInOY4IY4_lqUm_zegnKmjH4VrBEwhsiPp4XwHeI_GEXAiPh8SWvZ30m-Y0cKQvFfusSDbIhnl6CYccVIaH6Fr5RKqoqAo/16184661/61139037/Jungle_Boogie_feat_Scratch_Bandits_Crew__Scratch_Version_.mp3</TRACKURL>
+ <TRACKNUM>7</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Jungle Boogie (feat. Scratch Bandits Crew) [Scratch Version]</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>245</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>9818905</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139038</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tzrRJWLWGkasgGKH0iNeQb6faSlHuZaxzgUMAwAEEI2DN3I6FUJKN1fP9e2ATaRoLmBsfTziecraXsJG8h2FzjVv5AF7ow9MKNW1gH0u3msSWMz_Qwv5Io17TpQZnbbKrFWL5uCOLsoXK/16184661/61139038/Better_That_Way_feat_Le_Syndicat_du_Chrome__Jazz_Reworked_.mp3</TRACKURL>
+ <TRACKNUM>8</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Better That Way (feat. Le Syndicat du Chrome) [Jazz Reworked]</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>176</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>7020668</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139039</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tzHO1g1-lWuXWW4TKQGwtHQLia0o17mvhLRffaSFiizhob40LEQ4g3N_7l1fj-sa6iOpJYHWzHhZCV0mj9smCsIbc8TIKImB7taBdEdQAmwuScmn330pDJUBQ4N6vp8vISxQpII2Y-afP/16184661/61139039/Ronin_feat_Hugo_Kant__Dub_.mp3</TRACKURL>
+ <TRACKNUM>9</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Ronin (feat. Hugo Kant) [Dub]</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>213</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>8511737</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139040</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tzvuW8GgDHWGeQgm14RWUYY_Nfm-pFZe1_oy3jzladSE_-7Ul3XNAd2z9OC2tws_D7mgJtNbHc5doO40y2P5WMYIzOFpBg061djmLFp-tFSw2Xu-AZUB64rnvkiZCGp79A2eMxLQpyjRi/16184661/61139040/Pills_for_Your_Ills_Afghan_Beat_.mp3</TRACKURL>
+ <TRACKNUM>10</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Pills for Your Ills (Afghan Beat)</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>208</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>8337240</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139041</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tzvj6htWg8F99edeVk8vVhC0QF9Npuf80ijx8Luwt_GihplwO71Jazt9JdEZSkk-eJcuwWwD5t-qLGsIQISs5WZ-b1GkN9OwT1qmquPTQqoF5EsSqB1SsS5IZyk8ueBd7VISuHpzi8pzI/16184661/61139041/Past_Your_Time_Trap_Reboot_.mp3</TRACKURL>
+ <TRACKNUM>11</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>Past Your Time (Trap Reboot)</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>201</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>8035264</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ <TRACK>
+ <TRACKID>61139042</TRACKID>
+ <TRACKURL>http://dl9.emusic.com/dl/5KXwO-s9lY-52V7QPT0tzPdfTxKmfkY_QBgV8lj0p1QK5DWMOgI2dwFBKI35BzkWsDqCGx9RBZ0vR04FnEGH5FmqMXOQAHSBoyd29B1vl5cKoQ5JiLfmAzzT-PfGCzLP4jCmLwC-sa7XGM8EnnS7QgRtirBob2Kd/16184661/61139042/The_Journey_Lost_Mix_.mp3</TRACKURL>
+ <TRACKNUM>12</TRACKNUM>
+ <TRACKCOUNT>12</TRACKCOUNT>
+ <DISCNUM>1</DISCNUM>
+ <DISCCOUNT>1</DISCCOUNT>
+ <TITLE>The Journey (Lost Mix)</TITLE>
+ <ALBUM>The Journey</ALBUM>
+ <ALBUMID>16184661</ALBUMID>
+ <ALBUMURL>http://download-service/album/Tumi-Chinese-Man-The-Journey-MP3-Download/16184661.html</ALBUMURL>
+ <ARTIST>Tumi, Chinese Man</ARTIST>
+ <ARTISTID>15362095</ARTISTID>
+ <ARTISTURL>http://download-service/artist/Tumi-Chinese-Man-MP3-Download/15362095.html</ARTISTURL>
+ <GENRE>Electronic</GENRE>
+ <GENREID>281</GENREID>
+ <GENREURL>http://download-service/genre/281.html</GENREURL>
+ <LABEL>Chinese Man Records / Believe Digital</LABEL>
+ <LABELID>168606</LABELID>
+ <LABELURL>http://download-service/label/Chinese-Man-Records-Believe-Digital-MP3-Download/168606.html</LABELURL>
+ <EXTENSION>.mp3</EXTENSION>
+ <MIMETYPE>audio/mpeg</MIMETYPE>
+ <DURATION>196</DURATION>
+ <ALBUMART>http://images.emusic.com/music/images/album/0/161/846/16184661/155x155.jpg</ALBUMART>
+ <ALBUMARTLARGE>http://images.emusic.com/music/images/album/0/161/846/16184661/600x600.jpg</ALBUMARTLARGE>
+ <DATAPORTIONSIZE>7834644</DATAPORTIONSIZE>
+ <STYLES></STYLES>
+ </TRACK>
+
+ </TRACKLIST>
+ </PACKAGE>
