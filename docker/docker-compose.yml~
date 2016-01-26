@@ -8,6 +8,7 @@ web:
   image: dngroup/mwc-web
   ports:
     - "8078:8078"
+    - "80:8078"
   links:
     - mwcstorage
 
@@ -77,9 +78,9 @@ mwcstorage:
   image: docker.io/dngroup/mwc-storage
   environment:
     - PORT=8079
-    - FRONTEND_HOST=172.17.0.1
+    - FRONTEND_HOST=172.17.42.1
     - FRONTEND_PORT=8080
-    - STORAGE_HOSTNAME = 172.17.0.1
+    - STORAGE_HOSTNAME = 172.17.42.1
   ports:
     - "8079:8079"
 
@@ -91,6 +92,8 @@ frontend:
     - PORT=8080
     - RABBIT_HOST=172.17.42.1
     - RABBIT_PORT=5672
+    - STORAGE_HOSTNAME=172.17.42.1
+    - FRONTEND_HOSTNAME=172.17.42.1
   links:
    - rabbitmq
   ports:
@@ -100,6 +103,8 @@ rabbitmq:
   ports:
     - "5672:5672"
     - "15672:15672"
+
+
 
 web:
   image: dngroup/mwc-web
@@ -172,10 +177,12 @@ stagging:
 
 mwcstorage:
   image: docker.io/dngroup/mwc-storage
+  command: /bin/bash -c "FRONTEND_HOSTNAME=172.17.42.1 java -jar dummy-storage.jar --myPort 8079 --myHostName 0.0.0.0 --vanillaStorageHostName  172.17.42.1 --vanillaStoragePort 8080" 
   environment:
     - PORT=8079
     - FRONTEND_HOST=frontend
     - FRONTEND_PORT=8080
+    - STORAGE_HOSTNAME=172.17.42.1
   ports:
     - "8079:8079"
   links:
@@ -183,15 +190,5 @@ mwcstorage:
 
 
 
-frontend:
-  image: dngroup/mwc-frontend
-  command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; java -jar frontend.jar --host 0.0.0.0 --port 8080 --rabbit-host rabbitmq --rabbit-port 5672; done"
-  environment:
-    - STORAGE_HOSTNAME=172.17.0.1
-    - FRONTEND_HOSTNAME=172.17.0.1
-    - RABBIT_PORT=5672
-  links:
-   - rabbitmq
-  ports:
-    - "8080:8080"
+
 

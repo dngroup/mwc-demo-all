@@ -8,10 +8,11 @@ web:
   image: dngroup/mwc-web
   ports:
     - "8078:8078"
+    - "80:8078"
   links:
     - mwcstorage
 
-workersoft:
+workersoft1:
   image: docker.io/dngroup/vhg-adaptation-worker:t-nova
   command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; source venv/bin/activate  && celery worker -A adaptation.commons -Q soft; done"
   environment:
@@ -33,7 +34,7 @@ workersoft2:
    - rabbitmq
    - mwcstorage
 
-workerhard:
+workerhard1:
   image: docker.io/dngroup/vhg-adaptation-worker:t-nova
   command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; source venv/bin/activate  && celery worker -A adaptation.commons -Q hard; done"
   environment:
@@ -43,6 +44,9 @@ workerhard:
   - HTTP_PORT_VTU=80
   - CELERY_BROKER_URL=amqp://guest@rabbitmq/
   - SSH_PORT_VTU=22
+  - SSH_KEY=/KEY/vTU_id_rsa
+  volumes:
+   - .:/KEY
   links:
    - rabbitmq
    - mwcstorage
@@ -58,6 +62,9 @@ workerhard2:
   - HTTP_PORT_VTU=80
   - CELERY_BROKER_URL=amqp://guest@rabbitmq/
   - SSH_PORT_VTU=22
+  - SSH_KEY=/KEY/vTU_id_rsa
+  volumes:
+   - .:/KEY
   links:
    - rabbitmq
    - mwcstorage
@@ -79,10 +86,11 @@ mwcstorage:
     - PORT=8079
     - FRONTEND_HOST=172.17.0.1
     - FRONTEND_PORT=8080
-    - STORAGE_HOSTNAME = 172.17.0.1
+    - STORAGE_HOSTNAME=172.17.0.1
   ports:
     - "8079:8079"
-
+  links:
+    - frontend
 
 frontend:
   image: dngroup/mwc-frontend
@@ -91,107 +99,10 @@ frontend:
     - PORT=8080
     - RABBIT_HOST=172.17.42.1
     - RABBIT_PORT=5672
-  links:
-   - rabbitmq
-  ports:
-    - "8080:8080"
-rabbitmq:
-  image: rabbitmq:3.5.4-management
-  ports:
-    - "5672:5672"
-    - "15672:15672"
-
-web:
-  image: dngroup/mwc-web
-  ports:
-    - "8078:8078"
-  links:
-    - mwcstorage
-
-workersoft:
-  image: docker.io/dngroup/vhg-adaptation-worker:t-nova
-  command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; source venv/bin/activate  && celery worker -A adaptation.commons -Q soft; done"
-  environment:
-  - QUEUE=soft
-  - PYTHONUNBUFFERED=1
-  - CELERY_BROKER_URL=amqp://guest@rabbitmq/
-  links:
-   - rabbitmq
-   - mwcstorage
-
-workersoft2:
-  image: docker.io/dngroup/vhg-adaptation-worker:t-nova
-  command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; source venv/bin/activate  && celery worker -A adaptation.commons -Q soft; done"
-  environment:
-  - QUEUE=soft
-  - PYTHONUNBUFFERED=1
-  - CELERY_BROKER_URL=amqp://guest@rabbitmq/
-  links:
-   - rabbitmq
-   - mwcstorage
-
-workerhard:
-  image: docker.io/dngroup/vhg-adaptation-worker:t-nova
-  command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; source venv/bin/activate  && celery worker -A adaptation.commons -Q hard; done"
-  environment:
-  - QUEUE=hard
-  - PYTHONUNBUFFERED=1
-  - SERVER_VTU=vTUMOCK
-  - HTTP_PORT_VTU=80
-  - CELERY_BROKER_URL=amqp://guest@rabbitmq/
-  - SSH_PORT_VTU=22
-  links:
-   - rabbitmq
-   - mwcstorage
-
-
-workerhard2:
-  image: docker.io/dngroup/vhg-adaptation-worker:t-nova
-  command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; source venv/bin/activate  && celery worker -A adaptation.commons -Q hard; done"
-  environment:
-  - QUEUE=hard
-  - PYTHONUNBUFFERED=1
-  - SERVER_VTU=vTUMOCK
-  - HTTP_PORT_VTU=80
-  - CELERY_BROKER_URL=amqp://guest@rabbitmq/
-  - SSH_PORT_VTU=22
-  links:
-   - rabbitmq
-   - mwcstorage
-
-stagging:
-  image: docker.io/dngroup/vhg-adaptation-worker:t-nova
-  command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; source venv/bin/activate  && celery worker -A adaptation.commons; done"
-  environment:
-  - QUEUE=celery
-  - PYTHONUNBUFFERED=1
-  - CELERY_BROKER_URL=amqp://guest@rabbitmq/
-  links:
-   - rabbitmq
-   - mwcstorage
-
-mwcstorage:
-  image: docker.io/dngroup/mwc-storage
-  environment:
-    - PORT=8079
-    - FRONTEND_HOST=frontend
-    - FRONTEND_PORT=8080
-  ports:
-    - "8079:8079"
-  links:
-    - frontend
-
-
-
-frontend:
-  image: dngroup/mwc-frontend
-  command: /bin/bash -c "while ! nc -z rabbitmq 5672; do sleep 3; java -jar frontend.jar --host 0.0.0.0 --port 8080 --rabbit-host rabbitmq --rabbit-port 5672; done"
-  environment:
     - STORAGE_HOSTNAME=172.17.0.1
     - FRONTEND_HOSTNAME=172.17.0.1
-    - RABBIT_PORT=5672
   links:
-   - rabbitmq
+    - rabbitmq
   ports:
     - "8080:8080"
 
