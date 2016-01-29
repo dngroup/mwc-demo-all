@@ -6,17 +6,71 @@
 
 
 
+copyright {
+    border: 0;
+    vertical-align: middle;
+}
+footer {
+    margin: 0;
+}
+
+.jumbotron{
+    padding-top: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 5px;
+}
+.navbar{
+    margin-bottom: 0;
+}
+body{
+    padding-top: 50px;
+}
 
 
+.transcode{
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    float:none;
+    
+}
+.label-black{
+    background-color: #0f0f0f;
+    /*border: 1px solid black;*/
+    color: white;
+    font-size: x-large;
+}
 
 
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+th{
+    text-align: center;
+}
+.big{
+    font-size: xx-large;
+}
 
 
-
-
-
-
-
-
-
-
+.table>tbody>tr>td.result{
+    padding: 0;
+}

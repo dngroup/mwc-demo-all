@@ -84,9 +84,9 @@ mwcstorage:
   image: docker.io/dngroup/mwc-storage
   environment:
     - PORT=8079
-    - FRONTEND_HOST=172.17.0.1
+    - FRONTEND_HOST=172.17.42.1
     - FRONTEND_PORT=8080
-    - STORAGE_HOSTNAME=172.17.0.1
+    - STORAGE_HOSTNAME=172.17.42.1
   ports:
     - "8079:8079"
   links:
@@ -99,10 +99,13 @@ frontend:
     - PORT=8080
     - RABBIT_HOST=172.17.42.1
     - RABBIT_PORT=5672
-    - STORAGE_HOSTNAME=172.17.0.1
-    - FRONTEND_HOSTNAME=172.17.0.1
+    - STORAGE_HOSTNAME=172.17.42.1
+    - FRONTEND_HOSTNAME=172.17.42.1
+    - TRANSCOD_PARAM_FILE=/PARA/transcodes.properties
   links:
     - rabbitmq
   ports:
     - "8080:8080"
+  volumes:
+   - .:/PARA/
 

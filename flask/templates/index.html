@@ -20,6 +20,7 @@
     <!--add more icone-->
     <link rel="stylesheet" href="static/css/font-awesome.min.css">
 
+    <link rel="stylesheet" href="static/css/main.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -49,7 +50,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="#">About</a>
+                    <a href="http://www.t-nova.eu/">About</a>
                 </li>
                 <li>
                     <a href="#">Services</a>
@@ -64,16 +65,56 @@
     <!-- /.container -->
 </nav>
 
+<div class="container"><div class="row ">
+    <div class="text-center" height="80">
+        <img src = "static/img/European_Commission.svg" height="80">
+        <img src = "static/img/tnova1.jpg" height="100">
+
+        <img src = "static/img/Italtel_logo.jpg" height="80">
+        <img src = "static/img/viotech.png" height="70">
+        <img src = "static/img/UniMi.jpg" height="80">
+
+    </div>
+</div></div>
 
 <div class="jumbotron">
     <div class="container">
-        <h2 class="text-center">Upload a video and see it transcoded</h2>
 
-        <div class="input"></div>
+        <h3 class="text-center">Upload a video and see it transcoded </h3>
+
+        <div class="todelete text-center" style="padding-bottom: 10px;"> <div class="input"></div></div>
+
         <div class="load"></div>
+        <div class="col-lg-9">
+            <table class="table" hidden>
 
+                <tbody>
+                <tr>
+                    <th>Status</th>
+                    <th>Hard Encoding</th>
+                    <th>Soft Encoding</th></tr><tr><td>H264</td>
+                    <td><span class="glyphicon glyphicon-ok"></span> Encoding in 9.001s</td>
+                    <td class="SOFT_H264"><i class="fa fa-cog fa-spin"></i></td></tr>
+                <tr><td>H265</td><td><span class="glyphicon glyphicon-ok"></span> Encoding in 9.708s</td><td class="SOFT_H265"><i class="fa fa-cog fa-spin"></i></td></tr>
+                </tbody>
 
+            </table>
+        </div>
+        <div class="col-lg-9">
+        <table class="table" hidden>
 
+            <tbody>
+            <tr>
+                <th>Status</th>
+                <th>Hard Encoding</th>
+                <th>Soft Encoding</th></tr><tr><td>H264</td>
+                <td><span class="glyphicon glyphicon-ok"></span> Encoding in 9.001s</td>
+                <td class="SOFT_H264"><i class="fa fa-cog fa-spin"></i></td></tr>
+            <tr><td>H265</td><td><span class="glyphicon glyphicon-ok"></span> Encoding in 9.708s</td><td class="SOFT_H265"><i class="fa fa-cog fa-spin"></i></td></tr>
+            </tbody>
+
+        </table>
+        </div>
 
 
 
@@ -83,7 +124,7 @@
 
 
 <!-- Page Content -->
-<div class="container-fluid">
+<div class="container-fluid" >
 
     <!-- Page Header -->
     <!--<div class="row">-->
@@ -97,7 +138,8 @@
 
     <!-- Projects Row -->
     <div class="row">
-        <div class="transcode col-lg-12">
+        <!--<div class="col-lg-1 "></div>-->
+        <div class="transcode col-lg-12 col-sm-12 col-xs-12">
 
 
             <!--<div class="row col-lg-6 portfolio-item">-->
@@ -124,31 +166,72 @@
             <!--<h3><a href="#">jjj</a></h3></div>-->
 
 
-            <div class="row col-lg-6 portfolio-item">
-            <div class="embed-responsive embed-responsive-16by9">
-            <embed class="embed-responsive-item" type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
-            target="hhh" title="undefined"></embed></div>
-                <p class="label-warning">ss</p>
-            <!--<h3><a href="#">hhhh</a></h3></div>-->
+            <div class="col-lg-6 hidden">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/HARD_H264.mp4" ></embed>
+                </div>
+                <p class="label-black text-center" >HARD H264</p>
+                <!--<h3><a href="#">hhhh</a></h3></div>-->
+            </div>
+            <div class="col-lg-6  hidden">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/HARD_H265.mp4"></embed>
+                </div>
+                <p class="label-black text-center" >HARD H265</p>
+                <!--<h3><a href="#">hhhh</a></h3></div>-->
+            </div>
+            <div class="col-lg-6  hidden">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/SOFT_H264.mp4"></embed>
+                </div>
+                <p class="label-black text-center" >SOFT H264</p>
+                <!--<h3><a href="#">hhhh</a></h3></div>-->
+            </div>
+            <div class="col-lg-6 hidden ">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/SOFT_H264.mp4"></embed>
+                </div>
+                <p class="label-black text-center" >SOFT H264</p>
+                <!--<h3><a href="#">hhhh</a></h3></div>-->
+            </div>
 
         </div>
 
 
         <!-- /.row -->
 
-        <hr>
-
-        <!-- Footer -->
-        <footer>
-            <div class="row ">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Viotech 2016</p>
-                </div>
-            </div>
-            <!-- /.row -->
-        </footer>
 
     </div>
+    <hr>
+    <!--<div class="container">-->
+
+    <!-- Footer -->
+
+
+    <!-- /.row -->
+
+
+    <!--</div>-->
+    <!--<div class="container">-->
+
+    <!-- Footer -->
+    <!--<footer>-->
+        <!--<div class="row ">-->
+            <!--<div class="text-center copyright">-->
+                <!--<p>Copyright &copy; Viotech 2016</p>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--&lt;!&ndash; /.row &ndash;&gt;-->
+    <!--</footer>-->
+
+
+    </div>
+
+    <!--</div>-->
     <!-- /.container -->
 
     <!-- jQuery -->
@@ -168,12 +251,49 @@
         var timer = undefined;
         var pathname = window.location.pathname; // Returns path only
         var url      = window.location.href;     // Returns full URL
-        $( "div.input" ).replaceWith( '<input id="fileupload" type="file" name="file" data-url="http://' + hostname + ':{{ frontend_uri }}/api/storage">' );
+        $( "div.input" ).replaceWith( '<span class="btn btn-default btn-file">Browse<input id="fileupload"  type="file" name="file" data-url="http://' + hostname + ':{{ frontend_uri }}/api/storage"></span>' );
         function changePage(entry, result,theplacetobe) {
             entryproper=entry.replace("_", " ");
-            theplacetobe.append('<div class="col-md-6 portfolio-item"><div class="embed-responsive embed-responsive-16by9"><embed class="embed-responsive-item" type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes" target="' +basecontenturl+result.content["id"]+'/'+ entry +'.mp4'+ '" ></embed></div><h3 class="text-center"><a href="#">'+entryproper+'</a></h3></div>')
             time=(Date.now()-date)/1000
-            $("td."+entry).replaceWith('<td><span class="glyphicon glyphicon-ok"></span> Encoding in '+time+'s</td>');
+
+//            var sec_num = parseInt(time, 10); // don't forget the second param
+//            var hours   = Math.floor(sec_num / 3600);
+//            var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+//            var seconds = sec_num - (hours * 3600) - (minutes * 60);
+//
+//
+//            if (minutes == 0)
+//            {
+//                minutes = "";
+//                seconds = seconds+"s";
+//            }
+//            else if (minutes > 0) {
+//                minutes = minutes+"m";
+//                if (seconds == 0) {
+//                    seconds = "";
+//                }
+//                else if (seconds < 10)
+//                {
+//                    seconds = "0"+seconds+"s";
+//                }
+//                else
+//                {
+//                    seconds = seconds+"s";
+//                }
+//
+//            }
+//            mili = parseInt((time*10)%10, 10);
+//
+//            var time2    = minutes+seconds+mili;
+
+
+
+            var meta2 = getmeta(basecontenturl+result.content["id"]+"/"+entry+".mp4")
+
+            $("td."+entry).replaceWith('<td><span class="glyphicon glyphicon-ok"></span>  '+meta2.duration+' of video encoded in '+time.toFixed(2)+' s</td>');
+
+            theplacetobe.append('<div class="col-md-6 "><div class="embed-responsive embed-responsive-16by9"><embed class="embed-responsive-item" type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes" target="' +basecontenturl+result.content["id"]+'/'+ entry +'.mp4'+ '" ></embed></div> <p class="label-black text-center" >'+entryproper+" "+meta2.height+"@"+meta2.bitrate+'</p></div>')
+
         }
         function myTimer(urlToBe, theplacetobe,date) {
             $.ajax({
@@ -211,22 +331,43 @@
             });
         };
 
+
+        function getmeta(urlmeta) {
+
+            var res= $.ajax({
+                    url: basecontenturl+"mediainfo" ,
+                    type : 'GET',
+                    async: false,
+                    data: 'URI='+urlmeta,
+                    success: function(result) {
+                        console.log(result)
+
+
+
+                    }
+                });
+            return  JSON.parse(res.responseText);
+
+        }
         $(function() {
             $('#fileupload').fileupload({
 
                 success: function(e, data, request) {
                     date=Date.now();
-                    $("input").remove();
+                    $("div.todelete").remove();
                     var theplacetobe = $("div.transcode");
                     var urlToBe = request.responseText;
                     // theplacetobe.append("<li><a href=' " + request.responseText + " '>originale</a></li>");
-                    $("div.load").append('<div class="table-responsive"></div><table class="table"><tr><th>Status</th><th>Hard Encoding</th><th>Soft Encoding</th></tr><tr><td>H264</td><td class="HARD_H264"><i class="fa fa-cog fa-spin"></i></td><td class="SOFT_H264"><i class="fa fa-cog fa-spin"></i></td></tr><tr><td>H265</td><td class="HARD_H265"><i class="fa fa-cog fa-spin"></i></td><td class="SOFT_H265"><i class="fa fa-cog fa-spin"></i></td></tr></table></div>');
 
 
                     timer = setInterval(
                             function() {
                                 myTimer(baseurl+urlToBe, theplacetobe,date)
                             }, 250);
+                    var urlmeta=baseurl+urlToBe.replace("metadata/", "")+".mp4";
+                    var meta= getmeta(urlmeta);
+                    $("div.load").append('<div class="table-responsive"><table class="table text-center"><tr> <th>Original video</th><th>Status</th><th>Hard Encoding</th><th>Soft Encoding</th></tr><tr> <td rowspan="2">Codec: '+ meta.format +' <br>'+ meta.duration +' <br> '+ meta.height +'@'+ meta.bitrate +'  </td><td>H264</td><td class="HARD_H264 result"><i class="fa fa-cog fa-spin big"></i></td><td class="SOFT_H264 result"><i class="fa fa-cog fa-spin big"></i></td></tr><tr><td>H265</td><td class="HARD_H265 result"><i class="fa fa-cog fa-spin big"></i></td><td class="SOFT_H265 result"><i class="fa fa-cog fa-spin big"></i></td></tr></table></div>');
+
 
                 }
             });
