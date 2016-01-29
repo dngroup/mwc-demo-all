@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>T-Nova</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="static/css/2-col-portfolio.css" rel="stylesheet">
+
+    <!--add more icone-->
+    <link rel="stylesheet" href="static/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="static/css/main.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">T-Nova</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="http://www.t-nova.eu/">About</a>
+                </li>
+                <li>
+                    <a href="demo.html">Services</a>
+                </li>
+                <li>
+                    <a href="/">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<div class="container"><div class="row ">
+    <div class="text-center" height="80">
+        <img src = "static/img/European_Commission.svg" height="80">
+        <img src = "static/img/tnova1.jpg" height="100">
+
+        <img src = "static/img/Italtel_logo.jpg" height="80">
+        <img src = "static/img/viotech.png" height="70">
+        <img src = "static/img/UniMi.jpg" height="80">
+
+    </div>
+</div></div>
+
+<div class="jumbotron">
+    <div class="container">
+
+        <h3 class="text-center">Upload a video and see it transcoded </h3>
+
+        <div hidden class="todelete text-center" style="padding-bottom: 10px;"> <div class="input"></div></div>
+
+
+        <div class="load">
+            <div class="table-responsive">
+                <table class="table text-center">
+                    <tbody>
+                    <tr>
+                        <th>Original video</th>
+                        <th>Status</th>
+                        <th>Hard Encoding</th>
+                        <th>Soft Encoding</th>
+                    </tr>
+                    <tr>
+                        <td rowspan="2">Codec: H264 <br>33s <br> 720p@3Mbps</td>
+                        <td>H264</td>
+                        <td><span class="glyphicon glyphicon-ok"></span> 33s of video encoded in 7 s</td>
+                        <td><span class="glyphicon glyphicon-ok"></span> 33s of video encoded in 9 s</td>
+                    </tr>
+                    <tr>
+                        <td>H265</td>
+                        <td><span class="glyphicon glyphicon-ok"></span> 33s of video encoded in 8 s</td>
+                        <td><span class="glyphicon glyphicon-ok"></span> 33s of video encoded in 30 s</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
+
+    </div>
+</div>
+
+
+<!-- Page Content -->
+<div class="container-fluid" >
+
+    <!-- Page Header -->
+    <!--<div class="row">-->
+    <!--<div class="col-lg-12">-->
+    <!--<h1 class="page-header">Page Heading-->
+    <!--<small>Secondary Text</small>-->
+    <!--</h1>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!-- /.row -->
+
+    <!-- Projects Row -->
+    <div class="row">
+        <!--<div class="col-lg-1 "></div>-->
+        <div class="transcode col-lg-12 col-sm-12 col-xs-12">
+
+
+
+            <div class="col-lg-6 ">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/HARD_H264.mp4" ></embed>
+                </div>
+                <p class="label-black text-center" >Encoder in hardware H264 720p@2Mbps</p>
+            </div>
+            <div class="col-lg-6  ">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/HARD_H265.mp4"></embed>
+                </div>
+                <p class="label-black text-center" >Encoder in hardware H265 720p@2Mbps</p>
+            </div>
+            <div class="col-lg-6  ">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/SOFT_H264.mp4"></embed>
+                </div>
+                <p class="label-black text-center" >Encoder in software H264 720p@2Mbps</p>
+            </div>
+            <div class="col-lg-6  ">
+                <div class=" embed-responsive embed-responsive-16by9 ">
+                    <embed class=" embed-responsive-item " type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes"
+                           target="static/video/SOFT_H264.mp4"></embed>
+                </div>
+                <p class="label-black text-center" >Encoder in software H265 720p@2Mbps</p>
+            </div>
+
+        </div>
+    </div>
+
+
+    </div>
+
+
+    <script src="static/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="static/js/bootstrap.min.js"></script>
+    <script src="static/js/vendor/jquery.ui.widget.js"></script>
+    <script src="static/js/vendor/jquery.iframe-transport.js"></script>
+    <script src="static/js/vendor/jquery.fileupload.js"></script>
+
+    <script>
+        var resolutions = {};
+        var hostname = window.location.hostname;
+        var basecontenturl = "http://" + hostname + ":{{ frontend_uri }}/api/storage/";
+        var baseurl = "http://" + hostname + ":{{ frontend_uri }}/api/"
+        var timer = undefined;
+        var pathname = window.location.pathname; // Returns path only
+        var url      = window.location.href;     // Returns full URL
+        $( "div.input" ).replaceWith( '<span class="btn btn-default btn-file">Browse<input id="fileupload"  type="file" name="file" data-url="http://' + hostname + ':{{ frontend_uri }}/api/storage"></span>' );
+        function changePage(entry, result,theplacetobe) {
+            entryproper=entry.replace("_", " ");
+            time=(Date.now()-date)/1000
+
+//            var sec_num = parseInt(time, 10); // don't forget the second param
+//            var hours   = Math.floor(sec_num / 3600);
+//            var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+//            var seconds = sec_num - (hours * 3600) - (minutes * 60);
+//
+//
+//            if (minutes == 0)
+//            {
+//                minutes = "";
+//                seconds = seconds+"s";
+//            }
+//            else if (minutes > 0) {
+//                minutes = minutes+"m";
+//                if (seconds == 0) {
+//                    seconds = "";
+//                }
+//                else if (seconds < 10)
+//                {
+//                    seconds = "0"+seconds+"s";
+//                }
+//                else
+//                {
+//                    seconds = seconds+"s";
+//                }
+//
+//            }
+//            mili = parseInt((time*10)%10, 10);
+//
+//            var time2    = minutes+seconds+mili;
+
+
+
+            var meta2 = getmeta(basecontenturl+result.content["id"]+"/"+entry+".mp4")
+
+            $("td."+entry).replaceWith('<td><span class="glyphicon glyphicon-ok"></span>  '+meta2.duration+' of video encoded in '+time.toFixed(2)+' s</td>');
+
+            theplacetobe.append('<div class="col-md-6 "><div class="embed-responsive embed-responsive-16by9"><embed class="embed-responsive-item" type="application/x-vlc-plugin" name="video1" autoplay="yes" loop="yes" target="' +basecontenturl+result.content["id"]+'/'+ entry +'.mp4'+ '" ></embed></div> <p class="label-black text-center" >'+entryproper+" "+meta2.height+"@"+meta2.bitrate+'</p></div>')
+
+        }
+        function myTimer(urlToBe, theplacetobe,date) {
+            $.ajax({
+                url: urlToBe ,
+                success: function(result) {
+                    qualities=result.content["qualities"];
+                    if (typeof qualities != 'undefined'){
+                        if (jQuery.isArray(qualities)){
+
+                            qualities.forEach(function(entry) {
+                                if (!(entry in resolutions)) {
+                                    resolutions[entry] = entry;
+                                    changePage(entry,result,theplacetobe,date)
+                                }
+
+                            });
+                        } else{
+                            entry = qualities;
+                            if (!(entry in resolutions)) {
+                                resolutions[entry] = entry;
+                                changePage(entry,result,theplacetobe,date)
+                            }
+                        }
+
+                    };
+                    if (Object.keys(resolutions).length == 4) {
+//                        $("div.load").remove();
+                        window.clearInterval(timer);
+                    }
+
+                }
+            });
+        };
+
+
+        function getmeta(urlmeta) {
+
+            var res= $.ajax({
+                    url: basecontenturl+"mediainfo" ,
+                    type : 'GET',
+                    async: false,
+                    data: 'URI='+urlmeta,
+                    success: function(result) {
+                        console.log(result)
+
+
+
+                    }
+                });
+            return  JSON.parse(res.responseText);
+
+        }
+        $(function() {
+            $('#fileupload').fileupload({
+
+                success: function(e, data, request) {
+                    date=Date.now();
+                    $("div.todelete").remove();
+                    var theplacetobe = $("div.transcode");
+                    var urlToBe = request.responseText;
+                    // theplacetobe.append("<li><a href=' " + request.responseText + " '>originale</a></li>");
+
+
+                    timer = setInterval(
+                            function() {
+                                myTimer(baseurl+urlToBe, theplacetobe,date)
+                            }, 250);
+                    var urlmeta=baseurl+urlToBe.replace("metadata/", "")+".mp4";
+                    var meta= getmeta(urlmeta);
+                    $("div.load").append('<div class="table-responsive"><table class="table text-center"><tr> <th>Original video</th><th>Status</th><th>Hard Encoding</th><th>Soft Encoding</th></tr><tr> <td rowspan="2">Codec: '+ meta.format +' <br>'+ meta.duration +' <br> '+ meta.height +'@'+ meta.bitrate +'  </td><td>H264</td><td class="HARD_H264 result"><i class="fa fa-cog fa-spin big"></i></td><td class="SOFT_H264 result"><i class="fa fa-cog fa-spin big"></i></td></tr><tr><td>H265</td><td class="HARD_H265 result"><i class="fa fa-cog fa-spin big"></i></td><td class="SOFT_H265 result"><i class="fa fa-cog fa-spin big"></i></td></tr></table></div>');
+
+
+                }
+            });
+        });
+    </script>
+
+
+</body>
+
+</html>
